@@ -12,7 +12,9 @@
 </p>
 
 
-<h2 🚀>🚀Sobre o desafio</h2>
+<h2>🚀 Sobre o desafio</h2>
+<p>Nesse desafio, foi criado uma aplicação para treinar conceitos com Node.js!</p>
+<p>Essa será uma aplicação para armazenar repositórios de um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".</p>
 <ul>
   <li>Node</li>
   <li>React</li>
