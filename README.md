@@ -15,10 +15,9 @@
 <h2>🚀 Sobre o desafio</h2>
 <p>Nesse desafio, foi criado uma aplicação para treinar conceitos com Node.js!</p>
 <p>Essa será uma aplicação para armazenar repositórios de um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".</p>
-<ul>
-  <li>Node</li>
-  <li>React</li>
-  <li>Postgres</li>
-  <li>JavaScript</li>
-  <li>Express</li>
-</ul>
+<h2>Template da aplicação</h2>
+<p>Foi utilizado o seguinte template para criar o projeto</p>
+<p>O template está disponível na seguinte url: <strong><a href="https://github.com/Rocketseat/gostack-template-conceitos-nodejs">Acessar Template</a></strong></p>
+<hr>
+<p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rodffer <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na comunidade Rocketseat!</a></p>
+
