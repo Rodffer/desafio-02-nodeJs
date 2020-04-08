@@ -12,7 +12,7 @@
 </p>
 
 
-<h2>🚀Sobre o desafio</h2>
+<h2 🚀>🚀Sobre o desafio</h2>
 <ul>
   <li>Node</li>
   <li>React</li>
