@@ -18,6 +18,7 @@
 <h2>Template da aplicação</h2>
 <p>Foi utilizado o seguinte template para criar o projeto</p>
 <p>O template está disponível na seguinte url: <strong><a href="https://github.com/Rocketseat/gostack-template-conceitos-nodejs">Acessar Template</a></strong></p>
+<p>O desafio da Rocketseat está disponível na seguinte url: <strong><a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">Acessar Desafio Rocketseat</a></strong></p>
 <hr>
 <p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rodffer <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na comunidade Rocketseat!</a></p>
 
