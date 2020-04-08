@@ -12,7 +12,7 @@
 </p>
 
 
-<h2>Tecnologias Utilizadas</h2>
+<h2 href="#rocket-sobre-o-desafio">img.emoji Sobre o desafio</h2>
 <ul>
   <li>Node</li>
   <li>React</li>
